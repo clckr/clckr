@@ -1,3 +1,4 @@
+##
 <img alt="Laura-Pokeball" height="50" width="50" src="https://64.media.tumblr.com/8d4f8c58283a93c9ea16f3bcbeba17ae/4213108ffafbe20e-0a/s540x810/6f1a1ba3965c0b3838bc5aecbcb9f6e5f72f6635.png"><br>
  
 🐱‍👤 I’m currently learning <i>Python</i>, <i>JavaScript</i> and <i>ReactJS</i> <br>
@@ -5,8 +6,8 @@
 
 <div>
   <a href="https://github.com/clckr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clckr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D1117&text_color=f2e5e4&icon_color=EBA1AC&title_color=F1E9D8&border_color=FFEB8E"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clckr&layout=compact&langs_count=7&theme=tokyonight&bg_color=0D1117&text_color=f2e5e4&icon_color=EBA1AC&title_color=F1E9D8&border_color=FFEB8E"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=clckr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D1117&text_color=f2e5e4&icon_color=EBA1AC&title_color=F1E9D8&border_color=FFEB8E"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clckr&layout=compact&langs_count=7&theme=tokyonight&bg_color=0D1117&text_color=f2e5e4&icon_color=EBA1AC&title_color=F1E9D8&border_color=FFEB8E"/>
 </div>
 
 <div style="display: inline_block"><br>
