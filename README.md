@@ -16,7 +16,7 @@
   <img align="center" alt="Laura-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Laura-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Laura-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Laura-Psyduck" height="120" width="200" src="https://64.media.tumblr.com/763943cdc594e49cc7aa334d6f003be7/4213108ffafbe20e-f7/s500x750/71d4c05076722fa926c363e5a0ea5d726ae374fa.gifv">
+  <img align="center" alt="Laura-Psyduck" height="80" width="140" src="https://64.media.tumblr.com/763943cdc594e49cc7aa334d6f003be7/4213108ffafbe20e-f7/s500x750/71d4c05076722fa926c363e5a0ea5d726ae374fa.gifv">
 </div>
   
   ##
