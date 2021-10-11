@@ -7,7 +7,7 @@
 <div>
   <a href="https://github.com/clckr">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=clckr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D1117&text_color=f2e5e4&icon_color=EBA1AC&title_color=F1E9D8&border_color=FFEB8E"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clckr&layout=compact&langs_count=7&theme=tokyonight&bg_color=0D1117&text_color=f2e5e4&icon_color=EBA1AC&title_color=F1E9D8&border_color=FFEB8E"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clckr&count_private=true&layout=compact&langs_count=7&theme=tokyonight&bg_color=0D1117&text_color=f2e5e4&icon_color=EBA1AC&title_color=F1E9D8&border_color=FFEB8E"/>
 </div>
 
 <div style="display: inline_block"><br>
