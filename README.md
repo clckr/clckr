@@ -1,7 +1,7 @@
 ##
-<img alt="Laura-Pokeball" height="50" width="90" src="https://66.media.tumblr.com/7c8005751e498e73ac2c6dbebd354abd/tumblr_mid3ewzmHZ1rfjowdo1_500.gif"> <b>Hi there!</b><br>
+<img alt="Laura-Pokeball" height="50" width="90" src="https://66.media.tumblr.com/7c8005751e498e73ac2c6dbebd354abd/tumblr_mid3ewzmHZ1rfjowdo1_500.gif"> 
+<b>Hi there!</b><br>
  
-🐱‍👤 I’m currently learning <i>Java</i> and <i>ReactJS</i> <br>
 🦝 <b>Pronouns:</b> she/they
 
 <div>
