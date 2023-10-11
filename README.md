@@ -7,12 +7,6 @@
 </div>
 
 
-<div>
-  <a href="https://github.com/clckr">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=clckr&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D1117&text_color=f2e5e4&icon_color=EBA1AC&title_color=F1E9D8&border_color=FFEB8E"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clckr&count_private=true&layout=compact&theme=tokyonight&bg_color=0D1117&text_color=f2e5e4&icon_color=EBA1AC&title_color=F1E9D8&border_color=FFEB8E"/>
-</div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Laura-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Laura-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
