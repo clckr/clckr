@@ -59,8 +59,8 @@
 
  <div>
   <h5>Observability Tools</h5>
-  <img src="https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9" />
   <img src="https://img.shields.io/badge/Dynatrace-12?style=for-the-badge&logo=dynatrace&logoColor=ebebf2&logoSize=auto&color=%235a5b8c%09" />
+  <img src="https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9" />
  </div>
 </div>
   
